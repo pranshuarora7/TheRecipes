@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background: rgba(176, 252, 195, 0.3)
+}
+
+img {
+    margin: 50px 150px;
+    align-items: center;
+}
+
+h3 {
+    margin: 25px;
+}
+
+ul {
+    list-style-position: inside
+}
+
+ol {
+    list-style-position: inside
+}
+
+li {
+    margin: 5px;
+}
+
+.dish {
+    width: 450px;
+    height: 500px;
+}
