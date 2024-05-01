@@ -53,3 +53,9 @@ ol {
     width: 450px;
     height: 500px;
 }
+
+.calculate {
+    margin-top: 40px;
+    display: flex;
+    justify-content: flex-end;
+}
